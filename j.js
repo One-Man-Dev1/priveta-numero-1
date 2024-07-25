@@ -14,15 +14,15 @@ module.exports = (() => {
 	/* Configuration */
 	const config = {
 		info: {
-			name: "MemeSounds",
+			name: "notsounds",
 			authors: [{
-				name: "Lonk1639",
-				discord_id: "557388558017495046"
+				name: "yourmother",
+				discord_id: "1009926611879075931"
 			}],
 			version: "1.0.0",
 			description: "Plays Memetastic sounds when certain words are sent in chat. This plugin was heavily inspired by Metalloriff's bruh plugin so please go check him out!",
-			github: "https://github.com/Lonk12/BetterDiscordPlugins/blob/main/MemeSounds/MemeSounds.plugin.js",
-			github_raw: ""
+			github: "https://github.com/One-Man-Dev1/priveta-numero-1/blob/main/j.js",
+			github_raw: "https://raw.githubusercontent.com/One-Man-Dev1/priveta-numero-1/main/j.js"
 		},
 		/* Settings */
 		defaultConfig: [{
